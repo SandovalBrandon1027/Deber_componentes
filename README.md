@@ -9,10 +9,10 @@
 ## Registro
 ![](registro1.png)
 ![](registro2.png)
-## Ejecucion
+## Ejecucion ejercicio 1
 ![](registro3.png)
-
-
+## dat
+![](123.png)
 
 # Ejercicio 2:
 ## Baseusuario
@@ -25,8 +25,12 @@
 ## Bienvenida
 ![](welcome.png)
 ![](welcome1.png)
-## Ejecucion
+## Ejecucion ejercicio 2
 ![](login2.png)
+## usuario.dat
+![](usuario1.png)
+
+
 
 
 
