@@ -22,11 +22,11 @@
 ## Login 
 ![](login.png)
 ![](login1.png)
-![](login2.png)
 ## Bienvenida
 ![](welcome.png)
 ![](welcome1.png)
-##
+## Ejecucion
+![](login2.png)
 
 
 
