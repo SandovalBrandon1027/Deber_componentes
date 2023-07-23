@@ -9,4 +9,11 @@ EJERCICIO 1:
 ## Registro
 ![](registro1.png)
 ![](registro2.png)
+## Ejecucion
+![](registro3.png)
+
+
+
+Ejercicio 2:
+
 
