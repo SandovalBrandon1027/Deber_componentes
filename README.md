@@ -4,9 +4,9 @@
 
 EJERCICIO 1:
 
-##Datos
+## Datos
 ![](datos.png)
-##Registro
+## Registro
 ![](registro1.png)
 ![](registro2.png)
 
