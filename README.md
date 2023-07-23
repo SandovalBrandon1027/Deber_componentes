@@ -4,4 +4,9 @@
 
 EJERCICIO 1:
 
-![](baseusuario1.png)
+Datos
+![](datos.png)
+Registro
+![](registro1.png)
+![](registro2.png)
+
