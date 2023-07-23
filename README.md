@@ -2,7 +2,7 @@
 ## Integrantes: Brandon Sandoval y Andrew Vilcacundo
 
 
-EJERCICIO 1:
+# EJERCICIO 1:
 
 ## Datos
 ![](datos.png)
@@ -14,6 +14,6 @@ EJERCICIO 1:
 
 
 
-Ejercicio 2:
+# Ejercicio 2:
 
 
