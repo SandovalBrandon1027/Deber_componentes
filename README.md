@@ -1,5 +1,5 @@
 # Deber_componentes
-## Integrantes: Brandon Sandoval, Andrew Vilcacundo y Cristian Paredes
+## Integrantes: Brandon Sandoval y Andrew Vilcacundo
 
 
 # EJERCICIO 1:
